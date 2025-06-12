@@ -18,7 +18,7 @@ Permintaan terhadap properti di Jakarta terus meningkat seiring dengan pertumbuh
 - Matplotlib
 
 ## Setup
-```Ruby
+```
 # Clone the repository
 git clone https://github.com/UsamahPutraFirdaus/LAI25-RM104-HousingPricePrediction
 
