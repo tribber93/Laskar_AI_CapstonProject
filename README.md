@@ -1,4 +1,4 @@
-![img_alt](?raw=true)
+![img_alt](https://github.com/UsamahPutraFirdaus/LAI25-RM104-HousingPricePrediction/blob/main/logo/logo_assetify.png?raw=true)
 
 # Assetify : Know the Price, Make it Wise!
 
