@@ -43,3 +43,6 @@ Ctrl + C
 
 ## Website Demo
 Sistem Prediksi Dapat diakses di [Assetify](https://assetify.streamlit.app/)
+
+## References
+Scraping Data : [Lamudi](https://www.lamudi.co.id/)
